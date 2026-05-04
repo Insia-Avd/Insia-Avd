@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Insia
+I build Python Applications.
 
-<!--
-**Insia-Avd/Insia-Avd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
+- Python, Flask, Django
+- SQL, PostGreSQL
 
-Here are some ideas to get you started:
+Projects:
+- Education Management System (https://github.com/Insia-Avd/Education-Management-System)
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach Me:
+- insiafatimaavd110@gmail.com
+- www.linkedin.com/in/insia-fatima-avd
